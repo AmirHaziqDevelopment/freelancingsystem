@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .profile {
+    text-align: center;
+  }
+  
+  .profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .edit-profile {
+    display: none;
+  }
+  
+  .edit-profile h2 {
+    text-align: center;
+  }
+  
+  .edit-profile form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .edit-profile label {
+    margin-top: 10px;
+  }
+  
+  .edit-profile input {
+    width: 200px;
+    padding: 5px;
+    margin-top: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin-top: 10px;
+  }
+  

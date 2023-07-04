@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Naturo"
+		},
+		{
+			"path": "../Website-template-design-1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Website-template-design-1"
+	}
+}
